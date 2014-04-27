@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GPSVolumeBoost.iml" filepath="$PROJECT_DIR$/GPSVolumeBoost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gps_volume-boost/gps_volume-boost.iml" filepath="$PROJECT_DIR$/gps_volume-boost/gps_volume-boost.iml" />
+    </modules>
+  </component>
+</project>
+
